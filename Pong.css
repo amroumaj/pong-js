@@ -1,0 +1,24 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border:5px solid;
+    border-color:yellowgreen;
+}
+#score{
+    font-family:"ubuntu",monospace;
+    font-size:xx-large;
+    color:rgb(45, 172, 117);
+}
+#resetBtn{
+    font-family:"permanent Marker",cursive;
+    font-size:larger;
+    border:3px solid;
+    border-radius:15px;
+    border-color:yellowgreen;
+    background-color: black;
+    color:springgreen;
+    width :120px;
+    height:42px;
+    cursor:pointer;
+}
